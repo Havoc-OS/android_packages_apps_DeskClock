@@ -23,7 +23,7 @@
     <!-- Entries listed in the setting flip and shake. -->
     <string-array name="action_setting_entries">
         <item>غفوة</item>
-        <item>إستبعاد</item>
+        <item>تجاهل</item>
         <item>لا شيء</item>
     </string-array>
 </resources>

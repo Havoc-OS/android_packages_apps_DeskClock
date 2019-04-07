@@ -22,8 +22,8 @@
     <string name="shake_action_title">Ação ao agitar o dispositivo</string>
     <!-- Entries listed in the setting flip and shake. -->
     <string-array name="action_setting_entries">
-        <item>Soneca</item>
-        <item>Dispensar</item>
-        <item>Não fazer nada</item>
+        <item>Suspender</item>
+        <item>Ignorar</item>
+        <item>Nada</item>
     </string-array>
 </resources>

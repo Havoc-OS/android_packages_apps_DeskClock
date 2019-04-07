@@ -24,6 +24,6 @@
     <string-array name="action_setting_entries">
         <item>Posponer</item>
         <item>Descartar</item>
-        <item>Nada</item>
+        <item>Ninguna</item>
     </string-array>
 </resources>

@@ -17,13 +17,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Setting title for the flip action setting. -->
-    <string name="flip_action_title">Дія при перевороті пристрою</string>
+    <string name="flip_action_title">डिवाइस फ़्लिप क्रिया</string>
     <!-- Setting title for the shake action setting. -->
-    <string name="shake_action_title">Дія при струшуванні пристрою</string>
+    <string name="shake_action_title">डिवाइस शेक क्रिया</string>
     <!-- Entries listed in the setting flip and shake. -->
     <string-array name="action_setting_entries">
-        <item>Відкласти</item>
-        <item>Відхилити</item>
-        <item>Нічого</item>
+        <item>स्नूज़ करें</item>
+        <item>बर्खास्त</item>
+        <item>कुछ नहीं</item>
     </string-array>
 </resources>

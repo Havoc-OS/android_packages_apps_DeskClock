@@ -23,7 +23,7 @@
     <!-- Entries listed in the setting flip and shake. -->
     <string-array name="action_setting_entries">
         <item>Ertele</item>
-        <item>Reddet</item>
+        <item>Kapat</item>
         <item>Hiçbir şey</item>
     </string-array>
 </resources>

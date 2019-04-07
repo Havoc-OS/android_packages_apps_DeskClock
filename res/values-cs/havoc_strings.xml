@@ -22,8 +22,8 @@
     <string name="shake_action_title">Akce při zatřesení zařízením</string>
     <!-- Entries listed in the setting flip and shake. -->
     <string-array name="action_setting_entries">
-        <item>Ztišit</item>
-        <item>Odmítnout</item>
+        <item>Odložit</item>
+        <item>Zamítnout</item>
         <item>Žádná akce</item>
     </string-array>
 </resources>
