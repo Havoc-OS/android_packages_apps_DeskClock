@@ -17,13 +17,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Setting title for the flip action setting. -->
-    <string name="flip_action_title">Device flip action</string>
+    <string name="flip_action_title">端末反転アクション</string>
     <!-- Setting title for the shake action setting. -->
-    <string name="shake_action_title">Device shake action</string>
+    <string name="shake_action_title">端末を振った時のアクション</string>
     <!-- Entries listed in the setting flip and shake. -->
     <string-array name="action_setting_entries">
-        <item>Snooze</item>
-        <item>Dismiss</item>
-        <item>Nothing</item>
+        <item>スヌーズ</item>
+        <item>解除</item>
+        <item>なし</item>
     </string-array>
 </resources>
